@@ -6,16 +6,16 @@ html, body
 
 body
 {
-background-image: linear-gradient(to right top, #33a0f1, #2591d9, #1882c1, #0a73aa, #006494);
-}
 
+background-image:  url("https://previews.123rf.com/images/scenery1/scenery11408/scenery1140800098/30354893-pink-roses-background-represents-the-abstract-nature-of-love-.jpg");
+}
 .header
 {
-	color: white;font-family: 'Yeon Sung';font-size: 45px;letter-spacing: 10px;margin-top: 80px;
+	color: rgb(253, 6, 88);font-family: 'Yeon Sung';font-size: 45px;letter-spacing: 10px;margin-top: 80px;
 }
 .header img
 {
-	width: 80px;margin-left: -15px;
+	width: 80px;margin-left: -15px;  
 }
 
 .login_div
@@ -25,7 +25,7 @@ background-image: linear-gradient(to right top, #33a0f1, #2591d9, #1882c1, #0a73
 
 .logo
 {
-	width: 80px;margin-top: 30px;border-radius: 40px;
+	width: 150px;margin-top: 30px;border-radius: 40px;
 }
 
 #login_button
